@@ -54,14 +54,6 @@
 
 ---
 
-### 🔬 Expo-sciences CWSF/ESPC *(2018–2021)*
-- 🥇 Médaille d'or & 🥉 médaille de bronze — expo-sciences pancanadienne
-- Participation à l'expo-sciences international du MILSET
-- Prix Francis-Boulva (Super Expo-sciences)
-- 1er prix Hydro-Québec — finale régionale de l'Estrie
-
----
-
 ## 📚 Formation
 
 **Baccalauréat en génie informatique** — Université de Sherbrooke *(2025 – en cours)*  
@@ -87,5 +79,5 @@ Quand je ne code pas : 🍺 brassage artisanal • 🎿 ski alpin • 🎣 pêch
 
 ## 📬 Me rejoindre
 
-📧 blaa6441@USherbrooke.ca  
+📧 AntoineBlais4@USherbrooke.ca  
 📍 Sherbrooke, QC
